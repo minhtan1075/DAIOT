@@ -1,0 +1,12 @@
+@import-normalize;
+body {
+  margin: 0;
+ box-sizing: border-box;
+ background: rgb(16,45,45);
+ background: linear-gradient(90deg, rgba(16,45,45,1) 0%, rgba(38,139,139,1) 49%, rgba(56,145,168,1) 100%)
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
